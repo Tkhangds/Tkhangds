@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, just a weakling in UIT
+
+### 🌱 I’m currently learning about mobile, web development
+### My goal is to become a .NET developer :], good luck myself
 
 <!--
 **Tkhangds/Tkhangds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
