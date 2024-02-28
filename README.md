@@ -3,8 +3,7 @@
 ### 🔎 I’m currently learning about mobile, web development.
 ### 🎯 My goal is to become a .NET developer :], good luck myself.
 
-https://badgen.net/badge/:subject/:status/:black?icon=github
-
+![My Badge](https://badgen.net/badge/hello/world/red?icon=twitter)
 <!--
 **Tkhangds/Tkhangds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
