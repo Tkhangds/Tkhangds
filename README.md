@@ -1,4 +1,4 @@
-### Hi there 👋, just a weakling in UIT.
+### Hi there 👋, i am a student in UIT.
 
 ### 🔎 I’m currently learning about mobile, web development.
 ### 🎯 My goal is to become a .NET developer :], good luck old me.
