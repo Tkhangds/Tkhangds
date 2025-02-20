@@ -3,6 +3,7 @@
 ### 🔎 I’m currently learning about mobile, web development.
 ### 🎯 My goal is to become a .NET developer :], good luck old me.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkhangds)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Tkhangds/Tkhangds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
