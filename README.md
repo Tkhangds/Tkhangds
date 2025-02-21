@@ -3,6 +3,12 @@
 ### 🔎 I’m currently learning about mobile, web development.
 ### 🎯 My goal is to become a .NET developer :], good luck old me.
 
+<h2>Stats</h2>
+	<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaderNgo&show_icons=true&theme=dark" alt="VaderNgo's GitHub stats" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaderNgo&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark" alt="Top Langs" style="padding-left:50px"/>
+	</p>
+
 <!--
 **Tkhangds/Tkhangds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
