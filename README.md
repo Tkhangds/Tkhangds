@@ -1,3 +1,5 @@
+<h2>About Me</h2>
+
 ### Hi there 👋, i am a student in UIT.
 
 ### 🔎 I’m currently learning about mobile, web development.
